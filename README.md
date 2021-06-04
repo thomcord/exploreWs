@@ -1,5 +1,5 @@
 # exploreWs
-WebSite (from youtube tutorial)
+WebSite 
 
 
 This is a simple website created using HTML, CSS and JS. The project is simple
